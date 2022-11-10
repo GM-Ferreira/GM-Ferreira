@@ -12,9 +12,17 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+##
 
 ### Github stats :bar_chart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gm-ferreira&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-ferreira&layout=compact&theme=tokyonight)](https://github.com/gm-ferreira/github-readme-stats)
+
+##
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-moraes-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igopereira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
