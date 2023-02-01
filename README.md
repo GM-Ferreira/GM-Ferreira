@@ -1,6 +1,6 @@
-## Hi, I'm [Guilherme Ferreira](https://gm-ferreira.github.io/)! :wave:
+## Olá, me chamo [Guilherme Ferreira](https://gm-ferreira.github.io/)! :wave:
 
-### My stacks
+### Stacks
 
 Front-end
 
