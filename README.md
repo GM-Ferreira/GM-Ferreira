@@ -1,6 +1,8 @@
 ## Olá, me chamo [Guilherme Ferreira](https://gm-ferreira.github.io/)! :wave:
 
-### Stacks
+Sou desenvolvedor FullStack Web, apaixonado por números, lógicas, finanças e projetos interdisciplinares, atualmente aprimorando conhecimentos em desenvolvimento Web para solucionar problemas com uma escala ainda maior.
+
+## Stacks
 
 Front-end
 
